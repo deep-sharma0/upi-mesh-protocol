@@ -2,7 +2,9 @@
 
 ```
 
+## Architecture Overview
 
+![UPI Mesh Protocol Architecture](assets/architecture.png)
 ```
 # UPI Mesh Protocol Simulator
 
